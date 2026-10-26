@@ -10,9 +10,7 @@ This repository only holds the downloads. Get the latest version from
 
 1. Download `Sweep.zip` from the latest release and unzip it.
 2. Move **Sweep** to your Applications folder and open it.
-3. The first time, macOS may say it can't verify the app. Open System Settings > Privacy & Security,
-   scroll down and click **Open Anyway**. This is needed once.
-4. Allow Accessibility access when asked. macOS has no other way for an app to clear notifications:
+3. Allow Accessibility access when asked. macOS has no other way for an app to clear notifications:
    Sweep uses it only to open Notification Center, press each notification's clear button and close
    it again.
 
